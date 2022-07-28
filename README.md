@@ -1,4 +1,6 @@
-### Hi there 👋
+# :point_right: Hello, I'm Thinh Ho :point_left:
+
+
 
 <!--
 **thinhhoUB/thinhhoUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
